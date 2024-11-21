@@ -8,3 +8,4 @@ Dimension Table
  - Dim_customers
  - Dim_products
  - Dim_targets_order
+ - Dim_date
