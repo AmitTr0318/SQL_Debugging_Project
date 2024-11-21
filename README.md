@@ -2,8 +2,9 @@
 
 Fact Tables
  - Fact_Order_lines
- - Fact_orders_target
+ - Fact_orders_aggregate
 
 Dimension Table
  - Dim_customers
  - Dim_products
+ - Dim_targets_order
